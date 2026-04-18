@@ -259,7 +259,7 @@ body {
 .hero {
   height: 100vh;
   width: 100%;
-  background-image: url(/hero-darkening.png), url(/hero.png);
+  background-image: url(/hero-darkening.png), url(/hero1.png);
   background-size: cover, cover;
   background-position: center, center;
 }

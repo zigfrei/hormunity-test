@@ -836,6 +836,11 @@ body {
 .cards-section {
   overflow: hidden;
   max-width: 100vw;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
 }
 
 .cards-swiper {
@@ -847,8 +852,6 @@ body {
 
 .cards-swiper .swiper-wrapper {
   align-items: center;
-  width: 100% !important;
-  max-width: 100% !important;
 }
 
 .cards-swiper .swiper-slide {
